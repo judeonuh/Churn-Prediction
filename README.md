@@ -1,4 +1,4 @@
-# Promotion Eligibility and Bias Analysis.
+# Churn Prediction
 ---
 
 ## Executive summary
