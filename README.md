@@ -40,7 +40,7 @@ The churn dataset is highly imbalanced: with 20.37% of staff churn vs 79.63% No 
 > [!NOTE]
 > **Imbalance ratio: ~ 3.9 : 1**
 
-![target distribution](target_distr.png)
+![target distribution](target.png)
 
 ### 2. 
 
