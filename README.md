@@ -41,7 +41,7 @@ To develop a model for predicting staff churn. Understanding churn rate could al
 > [!NOTE]
 > **Imbalance ratio: ~ 3.9 : 1**
 
-![target distribution](target.png)
+![target distribution](img/target.png)
 
 ### 2. Top Features with Strongest Correlation with Churn
 The following features showed the strongest linear relationship with churn, suggesting they may be key predictors for the target
