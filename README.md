@@ -14,6 +14,7 @@ Hyperparameter tuning improved some models but not others, depending on the scor
 ## Table of contents  
 [Project Goal](#project-goal)  
 [Data and preprocessing](#data-and-preprocessing)  
+[Skills Demonstrated](#skills-demonstrated)  
 [Highlighted results from EDA](#highlighted-results-from-eda)    
 [Results from Model Evaluation](#results-from-model-evaluation)   
 [Conclusion](#conclusion) 
@@ -28,8 +29,20 @@ To develop a model for predicting staff churn. Understanding churn rate could al
 ## Data and preprocessing
 * Dataset shape (10000, 14)
 * Target: 'Churn'
+* The dataset was received clean.
 * No null or Duplicate values found
 * Outliers handled using the IQR method
+
+---
+
+## Skills Demonstrated
+* Python
+* Scikit-learn
+* SMOTE
+* GridSearchCV
+* Imbalanced classification
+* Model comparison
+* Feature engineering
 
 ---
 
